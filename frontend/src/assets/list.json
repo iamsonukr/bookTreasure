@@ -1,0 +1,90 @@
+[
+    {
+        "id": 1,
+        "name": "Story Book",
+        "title": "Lorem3",
+        "price": 100,
+        "category": "Free",
+        "image": "./book.png"
+    },
+    {
+        "id": 2,
+        "name": "Mystery Novel",
+        "title": "The Unknown",
+        "price": 150,
+        "category": "Paid",
+            "image": "./book.png"
+    },
+    {
+        "id": 3,
+        "name": "Science Fiction",
+        "title": "Future World",
+        "price": 200,
+        "category": "Paid",
+        "image": "./book.png"
+    },
+    {
+        "id": 4,
+        "name": "Fantasy Adventure",
+        "title": "Dragon Quest",
+        "price": 180,
+        "category": "Paid",
+         "image": "./book.png"
+    },
+    {
+        "id": 5,
+        "name": "Historical Fiction",
+        "title": "The Great Empire",
+        "price": 120,
+        "category": "Free",
+       "image": "./book.png"
+    },
+    {
+        "id": 6,
+        "name": "Romantic Novel",
+        "title": "Love in Paris",
+        "price": 130,
+        "category": "Paid",
+      "image": "./book.png"
+    },
+    {
+        "id": 7,
+        "name": "Horror Story",
+        "title": "Nightmare House",
+        "price": 160,
+        "category": "Paid",
+      "image": "./book.png"
+    },
+    {
+        "id": 8,
+        "name": "Comedy Book",
+        "title": "Laugh Out Loud",
+        "price": 90,
+        "category": "Free",
+      "image": "./book.png"
+    },
+    {
+        "id": 9,
+        "name": "Self-Help",
+        "title": "Be Your Best",
+        "price": 110,
+        "category": "Free",
+      "image": "./book.png"
+    },
+    {
+        "id": 10,
+        "name": "Cookbook",
+        "title": "Delicious Recipes",
+        "price": 140,
+        "category": "Paid",
+      "image": "./book.png"
+    },
+    {
+        "id": 11,
+        "name": "Biography",
+        "title": "The Great Leader",
+        "price": 170,
+        "category": "Paid",
+        "image": "biography.jpg"
+    }
+]
